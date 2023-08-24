@@ -1,0 +1,6 @@
+/*estilo que da formato a la imagen para que todas tengan mismo tamaño*/
+img {
+  height: 250px;
+  width: 250px;
+  object-fit: cover;
+}
